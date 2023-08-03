@@ -1,6 +1,6 @@
 # forkify Project
 
-Created By Abhideep Ghosh
+Created By Swati Malvi
 
 ## About The Project
 
